@@ -27,3 +27,12 @@ phpsec file.php
 ```
 phpsec src/
 ```
+## Example
+
+```
+phpsec bootstrap.php 
+```
+
+```
+PHP Parse error:  syntax error, unexpected '}', expecting end of file in bootstrap.php on line 24
+```
