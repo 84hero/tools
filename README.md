@@ -27,7 +27,7 @@ phpsec file.php
 ```
 phpsec src/
 ```
-## Example
+- Example
 
 ```
 phpsec bootstrap.php 
