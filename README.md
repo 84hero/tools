@@ -2,6 +2,8 @@
 
 ## phpsec
 
+a simple php syntax check tool
+
 - install
 
 ```
@@ -9,8 +11,19 @@ copy phpsec.sh /usr/local/bin/phpsec
 chmod +x /usr/local/bin/phpsec
 ```
 
-- use
+- use default
 
 ```
 phpsec
+```
+
+- check file
+
+```
+phpsec file.php
+```
+
+- check dir
+```
+phpsec src/
 ```
